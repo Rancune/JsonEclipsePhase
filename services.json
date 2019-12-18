@@ -15,7 +15,7 @@
     "sous-catégorie" : "Mesh Services",
     "nom" : "Archive",
     "complexité/gp" : "Min/1",
-    "résumé" : "+10 tests de recherche liés à une compétence Connaître."
+    "résumé" : "+10 tests de recherche liés à une compétence Savoir."
     "description" : "<p>Chaque archive a un objectif différent (comme Know skill fields). L'utilisation d'une archive pertinente fournit un modificateur +10 aux tests de recherche impliquant ce sujet. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -38,7 +38,7 @@
     "nom" : "Private Sensor Feed",
     "complexité/gp" : "Min/1",
     "résumé" : "+10 Percevoir pour cette zone."
-    "description" : "<p>Chaque alimentation de capteur privé couvre une zone équivalente à un quartier ou à un petit habitat. Son utilisation fournit un bonus de +10 aux Tests de Perception lors de la surveillance de cette zone. </p>",
+    "description" : "<p>Chaque Feed de capteur privé couvre une zone équivalente à un quartier ou à un petit habitat. Son utilisation fournit un bonus de +10 aux Tests de Perception lors de la surveillance de cette zone. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
     "id" : "52022e3b-d4d5-49e2-a691-cba19e891f5c"
