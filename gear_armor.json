@@ -1,18 +1,18 @@
 [
   {
-    "category": "Armor",
-    "subcategory": "Armor Ware",
-    "name": "Bioweave",
-    "waretype": "B",
-    "energy": 2,
-    "kinetic": 3,
-    "stackable": true,
-    "complexity/gp": "Min/1",
-    "notes": "Concealable",
-    "description": "<p>The morph’s dermal layers are laced with spidersilk fibers, providing protection without changing the appearance, texture, or sensitivity of the skin.</p>",
-    "resource": "Eclipse Phase Second Edition",
-    "reference": "",
-    "id": "6d102456-66a7-41d1-9ce9-cc25aa9a3a1d"
+    "catégorie" : "Armure",
+    "sous-catégorie" : "Armor Ware",
+    "nom" : "Bioweave",
+    "waretype" : "B",
+    "énergie" : 2,
+    "Cinétique" : 3,
+    "Empilable" : vrai,
+    "complexité/gp" : "Min/1",
+    "notes" : "Cachable",
+    "description" : "<p>Les couches dermiques du morph sont mélangées avec des fibres de soie d'araignée, offrant une protection sans changer l'apparence, la texture ou la sensibilité de la peau. </p>",
+    "ressource" : "Eclipse Phase Second Edition",
+    "référence" : "",
+    "id" : "6d102456-66a6a7-41d1-9ce9-cc25aaa9a9a3a1d"
   },
   {
     "category": "Armor",
