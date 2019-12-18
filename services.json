@@ -71,7 +71,7 @@
     "nom" : "Simulspace",
     "complexité/gp" : "Min/1",
     "résumé" : "Accès à un espace RV.",
-    "description" : "Vous avez accès à un environnement de jeu virtuel, à un espace de réunion privé, à un service de médias interactifs, à une bibliothèque de vacances irréelle ou à un autre environnement simulSpace. Ces services sont disponibles sur certains habitats. </p>",
+    "description" : "Vous avez accès à un environnement de jeu virtuel, à un espace de réunion privé, à un service de médias interactifs, à une bibliothèque de vacances irréelle ou à un autre environnement simulSpace. Ces services sont disponibles sur certains habitats. ",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
     "id" : "0fb75b82b82-b9d4-45f3-977c-84025a706dda"
@@ -82,7 +82,7 @@
     "nom" : "Bot/Vehicle Rental",
     "complexité/gp" : "Min/1",
     "résumé" : "Louez un robot pour une semaine.",
-    "description" : "Dans certains endroits, les robots et les véhicules peuvent être loués sur une base hebdomadaire, bien que vous soyez responsable des dommages/remplacement. La GM détermine la disponibilité.</p>/p>",
+    "description" : "Dans certains endroits, les robots et les véhicules peuvent être loués sur une base hebdomadaire, bien que vous soyez responsable des dommages/remplacement. La GM détermine la disponibilité.",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
     "id" : "1146b894-28cb-4f60-badf-d5d78a3bb506"
@@ -104,7 +104,7 @@
     "nom" : "Egocasting",
     "complexité/gp" : "Mod+/2+",
     "résumé" : "Transmettez votre ego à un autre endroit.",
-    "description" : "Il s'agit de l'utilisation du farcaster d'un navire ou d'un habitat pour transmettre un ego/infomorphe. La prévision à long terme n'est pas bon marché, et le coût est influencé par des facteurs tels que la distance jusqu'à la station réceptrice et le service prioritaire (payer un supplément pour se faire dépasser dans la file),
+    "description" : "Il s'agit de l'utilisation du farcaster d'un navire ou d'un habitat pour transmettre un ego/infomorphe. La prévision à long terme n'est pas bon marché, et le coût est influencé par des facteurs tels que la distance jusqu'à la station réceptrice et le service prioritaire (payer un supplément pour se faire dépasser dans la file)",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
     "id" : "6352828383-4514-4dd9-89fb-9b-9b626ccd7063"
@@ -148,7 +148,7 @@
     "nom" : "Morph Storage",
     "complexité/gp" : "Min/1",
     "résumé" : "Conserver une morph inutilisée pendant 1 semaine.",
-    "description" : "Votre biomorphe est conservé sur glace pendant une semaine ou votre synthmorphe est stocké en toute sécurité, sans être loué à d'autres,
+    "description" : "Votre biomorphe est conservé sur glace pendant une semaine ou votre synthmorphe est stocké en toute sécurité, sans être loué à d'autres.",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
     "id" : "24bf47f9-478f-4567-bbaf-550bef8c2435"
@@ -159,7 +159,7 @@
     "nom" : "Privacy Suite",
     "complexité/gp" : "Min/1",
     "résumé" : "Utilisation d'une pièce sans surveillance pendant 1 heure.",
-    "description" : "De nombreux restaurants, boîtes de nuit, hôtels et entreprises similaires offrent des services de protection de la vie privée à l'heure qui ont souvent une clientèle qui désire un espace privé pour des réunions ou d'autres activités,
+    "description" : "De nombreux restaurants, boîtes de nuit, hôtels et entreprises similaires offrent des services de protection de la vie privée à l'heure qui ont souvent une clientèle qui désire un espace privé pour des réunions ou d'autres activités",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
     "id" : "659afe4d-2357-457e-9e54-ac3e66c69ce4"
@@ -170,7 +170,7 @@
     "nom" : "Service professionnel",
     "complexité/gp" : "Mod+/2+",
     "résumé" : "L'aide d'un professionnel compétent.",
-    "description" : "Il se peut que vous ayez besoin de recourir aux services d'un professionnel qualifié. Cela peut aller de la réparation d'armes, du garde du corps ou de l'analyse scientifique jusqu'à la destruction d'une zone morte de surveillance ou au piratage d'une base de données,
+    "description" : "Il se peut que vous ayez besoin de recourir aux services d'un professionnel qualifié. Cela peut aller de la réparation d'armes, du garde du corps ou de l'analyse scientifique jusqu'à la destruction d'une zone morte de surveillance ou au piratage d'une base de données",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
     "id" : "1f7a79c6-ebe8-4a50-b016-940312a13cac"
@@ -181,7 +181,7 @@
     "nom" : "Psychochirurgie",
     "complexité/gp" : "Min/1",
     "résumé" : "Thérapie psychochirurgicale pendant 1 heure.",
-    "description" : "Une séance de psychochirurgie d'une heure (subjectivement plus longue avec accélération temporelle) dans un simulacre immersif de haute fidélité peut vous aider à vous remettre du stress mental et du traumatisme (Mental Healing & Psychosurgery ▶223).</p>",
+    "description" : "Une séance de psychochirurgie d'une heure (subjectivement plus longue avec accélération temporelle) dans un simulacre immersif de haute fidélité peut vous aider à vous remettre du stress mental et du traumatisme (Mental Healing & Psychosurgery ▶223).",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
     "id" : "62649b05-d091-420d-8901-028e49854371"
