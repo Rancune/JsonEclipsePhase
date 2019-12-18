@@ -4,7 +4,7 @@
     "sous-catégorie" : "Mesh Services",
     "nom" : "Anonymizer",
     "complexité/gp" : "Min/1",
-    "résumé" : "Masque votre ID de maillage."
+    "résumé" : "Masque votre ID de maillage.",
     "description" : "Vous avez un compte avec un service de proxy anonyme qui masque votre Mesh ID ▶246.</p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -15,7 +15,7 @@
     "sous-catégorie" : "Mesh Services",
     "nom" : "Archive",
     "complexité/gp" : "Min/1",
-    "résumé" : "+10 tests de recherche liés à une compétence Savoir."
+    "résumé" : "+10 tests de recherche liés à une compétence Savoir.",
     "description" : "<p>Chaque archive a un objectif différent (comme Know skill fields). L'utilisation d'une archive pertinente fournit un modificateur +10 aux tests de recherche impliquant ce sujet. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -26,7 +26,7 @@
     "sous-catégorie" : "Mesh Services",
     "nom" : "Courtier en données",
     "complexité/gp" : "Min/1",
-    "résumé" : "+10 tests de recherche."
+    "résumé" : "+10 tests de recherche.",
     "description" : "<p>Les sociétés de marketing et les cartels du marché noir vendent les données privées des gens. Chaque courtier se concentre sur un groupe démographique particulier, comme une ville ou une profession. Appliquer un modificateur +10 aux tests de recherche pertinents. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -37,7 +37,7 @@
     "sous-catégorie" : "Mesh Services",
     "nom" : "Private Sensor Feed",
     "complexité/gp" : "Min/1",
-    "résumé" : "+10 Percevoir pour cette zone."
+    "résumé" : "+10 Percevoir pour cette zone.",
     "description" : "<p>Chaque Feed de capteur privé couvre une zone équivalente à un quartier ou à un petit habitat. Son utilisation fournit un bonus de +10 aux Tests de Perception lors de la surveillance de cette zone. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -48,7 +48,7 @@
     "sous-catégorie" : "Mesh Services",
     "nom" : "Partition Serveur Privé",
     "complexité/gp" : "Min/1",
-    "résumé" : "Espace privé sur un serveur en nuage."
+    "résumé" : "Espace privé sur un serveur en nuage.",
     "description" : "<p>Accueil de l'espace pour un infomorphe sur un serveur cloud protégé.</p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -59,7 +59,7 @@
     "sous-catégorie" : "Mesh Services",
     "nom" : "Serveur privé",
     "complexité/gp" : "Min/1 ou Mod/2",
-    "résumé" : "Serveur privé, auto-administré (Min) ou géré par d'autres (Mod)",
+    "résumé" : "Serveur privé, auto-administré (Min) ou géré par d'autres (Mod)",,
     "description" : "<p>Capable d'exécuter simulspace et 50 infomorphes.</p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -70,7 +70,7 @@
     "sous-catégorie" : "Mesh Services",
     "nom" : "Simulspace",
     "complexité/gp" : "Min/1",
-    "résumé" : "Accès à un espace RV."
+    "résumé" : "Accès à un espace RV.",
     "description" : "Vous avez accès à un environnement de jeu virtuel, à un espace de réunion privé, à un service de médias interactifs, à une bibliothèque de vacances irréelle ou à un autre environnement simulSpace. Ces services sont disponibles sur certains habitats. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -81,7 +81,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Bot/Vehicle Rental",
     "complexité/gp" : "Min/1",
-    "résumé" : "Louez un robot pour une semaine."
+    "résumé" : "Louez un robot pour une semaine.",
     "description" : "Dans certains endroits, les robots et les véhicules peuvent être loués sur une base hebdomadaire, bien que vous soyez responsable des dommages/remplacement. La GM détermine la disponibilité.</p>/p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -92,7 +92,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Carte des zones mortes",
     "complexité/gp" : "Min/1",
-    "résumé" : "Carte des zones non surveillées."
+    "résumé" : "Carte des zones non surveillées.",
     "description" : "Cette carte montre les zones d'un quartier ou d'un petit habitat qui ne font pas l'objet d'une surveillance publique et/ou privée.</p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -103,7 +103,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Egocasting",
     "complexité/gp" : "Mod+/2/2+",
-    "résumé" : "Transmettez votre ego à un autre endroit."
+    "résumé" : "Transmettez votre ego à un autre endroit.",
     "description" : "Il s'agit de l'utilisation du farcaster d'un navire ou d'un habitat pour transmettre un ego/infomorphe. La prévision à long terme n'est pas bon marché, et le coût est influencé par des facteurs tels que la distance jusqu'à la station réceptrice et le service prioritaire (payer un supplément pour se faire dépasser dans la file),
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -114,7 +114,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Fausse carte d'identité de l'ego",
     "complexité/gp" : "Maj/R/3",
-    "résumé" : "Fausse identité."
+    "résumé" : "Fausse identité.",
     "description" : "Cette fausse carte d'identité passera dans la plupart des habitats du système interne et de la République Jovienne, et parfois dans d'autres. Il vous donne un score de rep dans un réseau avec cette ID à 10.</p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -125,7 +125,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Service de guérison",
     "complexité/gp" : "Min/1",
-    "résumé" : "Une journée dans une cuve de guérison."
+    "résumé" : "Une journée dans une cuve de guérison.",
     "description" : "Une journée dans une cuve de cicatrisation peut être utilisée pour la guérison d'une plaie ou une chirurgie élective (Guérison & Réparation ▶221).</p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -136,7 +136,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Licence",
     "complexité/gp" : "Mod/R/2",
-    "résumé" : "Permis d'exercer une activité restreinte."
+    "résumé" : "Permis d'exercer une activité restreinte.",
     "description" : "<p>Vous obtenez une licence pour porter une arme ou exercer une autre activité restreinte. Nécessite une vérification de l'ID/du fond d'écran.</p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -147,7 +147,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Morph Storage",
     "complexité/gp" : "Min/1",
-    "résumé" : "Conserver une morph inutilisée pendant 1 semaine."
+    "résumé" : "Conserver une morph inutilisée pendant 1 semaine.",
     "description" : "Votre biomorphe est conservé sur glace pendant une semaine ou votre synthmorphe est stocké en toute sécurité, sans être loué à d'autres,
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -158,7 +158,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Privacy Suite",
     "complexité/gp" : "Min/1",
-    "résumé" : "Utilisation d'une pièce sans surveillance pendant 1 heure."
+    "résumé" : "Utilisation d'une pièce sans surveillance pendant 1 heure.",
     "description" : "De nombreux restaurants, boîtes de nuit, hôtels et entreprises similaires offrent des services de protection de la vie privée à l'heure qui ont souvent une clientèle qui désire un espace privé pour des réunions ou d'autres activités,
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -169,7 +169,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Service professionnel",
     "complexité/gp" : "Mod+/2/2+",
-    "résumé" : "L'aide d'un professionnel compétent."
+    "résumé" : "L'aide d'un professionnel compétent.",
     "description" : "Il se peut que vous ayez besoin de recourir aux services d'un professionnel qualifié. Cela peut aller de la réparation d'armes, du garde du corps ou de l'analyse scientifique jusqu'à la destruction d'une zone morte de surveillance ou au piratage d'une base de données,
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -180,7 +180,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Psychochirurgie",
     "complexité/gp" : "Min/1",
-    "résumé" : "Thérapie psychochirurgicale pendant 1 heure."
+    "résumé" : "Thérapie psychochirurgicale pendant 1 heure.",
     "description" : "Une séance de psychochirurgie d'une heure (subjectivement plus longue avec accélération temporelle) dans un simulacre immersif de haute fidélité peut vous aider à vous remettre du stress mental et du traumatisme (Mental Healing & Psychosurgery ▶223).</p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -191,7 +191,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Cautionnement de récupération",
     "complexité/gp" : "Maj/3",
-    "résumé" : "Un agent cherchera à récupérer votre pile par des moyens sûrs et légaux."
+    "résumé" : "Un agent cherchera à récupérer votre pile par des moyens sûrs et légaux.",
     "description" : "En cas de décès ou de disparition, un agent de l'assureur cherchera personnellement à récupérer votre pile corticale en utilisant toutes les méthodes sûres et légales à sa disposition. Cela comprend la négociation avec des politiques rivales, le paiement de rançons, le parrainage d'équipes de recherche, etc. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -202,7 +202,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Cautionnement de récupération (Dangereux)",
     "complexité/gp" : "Rare/-",
-    "résumé" : "Une équipe cherchera à récupérer votre pile malgré les menaces/légalités."
+    "résumé" : "Une équipe cherchera à récupérer votre pile malgré les menaces/légalités.",
     "description" : "En tant que lien régulier, sauf qu'une équipe d'agents recherchera votre pile même dans des conditions adverses et hostiles, y compris en infiltrant des zones de guerre et en menant des opérations de sauvetage sur des exoplanètes inconnues. Cela peut inclure le vol de la pile à des parties hostiles. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
@@ -213,7 +213,7 @@
     "sous-catégorie" : "Services physiques",
     "nom" : "Space Travel",
     "complexité/gp" : "Mod+/2/2+",
-    "résumé" : "Transport à bord d'un vaisseau spatial."
+    "résumé" : "Transport à bord d'un vaisseau spatial.",
     "description" : "Le coût du transport spatial dépend d'un certain nombre de facteurs tels que la distance, la qualité de l'hébergement et la quantité de marchandises que vous transportez. Au bas de l'échelle, un voyage en navette intra-habitat à l'intérieur d'un même amas, ou un voyage à destination ou en provenance de la surface et de l'orbite d'un corps planétaire, n'est pas bon marché mais abordable. Presque tout le reste est de plus en plus coûteux. </p>",
     "ressource" : "Eclipse Phase Second Edition",
     "référence" : "",
